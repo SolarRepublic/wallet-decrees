@@ -1,0 +1,7 @@
+[
+	{
+		"affects": "<=0.0.1-beta",
+		"action": "restrict",
+		"suggestion": "upgrade"
+	}
+]
