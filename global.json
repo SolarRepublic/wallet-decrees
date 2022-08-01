@@ -1,6 +1,6 @@
 [
 	{
-		"affects": "<=0.0.0",
+		"affects": "<=0.0.2",
 		"action": "restrict",
 		"suggestion": "upgrade"
 	}
